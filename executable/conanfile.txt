@@ -1,0 +1,5 @@
+[requires]
+hello/runtime_test@test/testing
+
+[generators]
+cmake
